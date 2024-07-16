@@ -1,7 +1,7 @@
 # Avamore-Technical-Interview-Web-App
 This will have the web application along with the python script used for the web app.
 
-To run this on you own device make sure to install requirements
+To run this on you own device make sure to:
 
 Make sure to run on you own virtual envoirement via venv
 
